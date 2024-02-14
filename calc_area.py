@@ -1,5 +1,4 @@
 import math
-import numpy as np
 
 def calc_area_square(side_length: float) -> float:
     area = side_length ** 2
